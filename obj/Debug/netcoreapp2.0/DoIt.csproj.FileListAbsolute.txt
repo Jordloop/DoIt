@@ -1,0 +1,8 @@
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\bin\Debug\netcoreapp2.0\DoIt.deps.json
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\bin\Debug\netcoreapp2.0\DoIt.runtimeconfig.json
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\bin\Debug\netcoreapp2.0\DoIt.runtimeconfig.dev.json
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\bin\Debug\netcoreapp2.0\DoIt.dll
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.csprojResolveAssemblyReference.cache
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.csproj.CoreCompileInputs.cache
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.AssemblyInfoInputs.cache
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.AssemblyInfo.cs
