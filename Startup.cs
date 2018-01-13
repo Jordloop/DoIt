@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using DoIt.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DoIt
 {
@@ -26,7 +28,7 @@ namespace DoIt
         {
             services.AddMvc();
             services.AddEntityFrameworkMySql()
-                .AddDbContext<ToDoListContext>(options =>
+                .AddDbContext<DoItContext>(options =>
                                       options
                                            .UseMySql(Configuration["ConnectionStrings:DefaultConnection"]));
         }

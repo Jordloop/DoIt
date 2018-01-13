@@ -6,3 +6,6 @@ C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.csprojRes
 C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.csproj.CoreCompileInputs.cache
 C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.AssemblyInfoInputs.cache
 C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.AssemblyInfo.cs
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\bin\Debug\netcoreapp2.0\DoIt.pdb
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.dll
+C:\Users\jordl\Desktop\Projects\DoIt\DoIt\obj\Debug\netcoreapp2.0\DoIt.pdb
